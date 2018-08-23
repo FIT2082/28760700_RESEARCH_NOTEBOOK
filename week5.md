@@ -1,6 +1,7 @@
 This week I begin learning sketch up and creating a crude plan.
-My first attempt is to use a floor plan available on the internet at:http://www.hothousedesign.com.au/projects/map-of-flinders-street-station
-![alt text](http://www.hothousedesign.com.au/projects/map-of-flinders-street-station)
+My first attempt is to use a floor plan available on the internet at: http://www.hothousedesign.com.au/projects/map-of-flinders-street-station
+
+![Floor plan](http://www.hothousedesign.com.au/images/work/maps/flinders_street_concourse.png)
 
 With this I aim to have a floor plan created by the end of the week, however I cannot simply recreate this floorplan
 as there are considerations for a balance between information loss and ease of readability.
