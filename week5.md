@@ -3,6 +3,10 @@ My first attempt is to use a floor plan available on the internet at: http://www
 
 ![Floor plan](http://www.hothousedesign.com.au/images/work/maps/flinders_street_concourse.png)
 
+I tried to look for other floormaps but could not find many sources with accurate detail, and had no
+luck finding mobility maps either which would be a great help towards a simplified representation of the station.
+So I would have to design a version myself.
+
 With this I aim to have a floor plan created by the end of the week, however I cannot simply recreate this floorplan
 as there are considerations for a balance between information loss and ease of readability.
 
