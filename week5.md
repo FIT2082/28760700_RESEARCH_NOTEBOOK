@@ -24,3 +24,10 @@ be on the same level for now and use some representation for the escalators.
 
 My final step for this section of the project would be to visit Flinders in person and evaluate the relative accuracy of my
 model and determine if there are key pieces of information I forgot to include that become apparent only in person.
+
+Futher research has allowed us to use another great model of Flinders from the same source as before: http://www.hothousedesign.com.au/projects/wayfinding-map
+
+
+![3D plan1](http://www.hothousedesign.com.au/images/work/maps/Flinders_street_isometric_3.png)
+
+![3D plan2](http://www.hothousedesign.com.au/images/work/maps/Flinders_street_isometric_2.png)
