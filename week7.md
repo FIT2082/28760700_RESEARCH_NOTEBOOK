@@ -1,5 +1,5 @@
 This week my task was to create the final floorplan for which the main public area of the 
-station is to be created from. This task prooved more difficult than I thought as I had to survey
+station is to be created from. This task proved more difficult than I thought as I had to survey
 the station myself.
 
 I began by going to Flinders Street Station and information the information desk of my intentions and ask for any possible
@@ -44,3 +44,16 @@ the room was not perfectly hexagonal and felt out of shape when alligned with a 
 with lines to attempt to create the room. The picture below shows the attempt I was happy with and me having moved onto
 creating the walls and pillars, the crucial bit of information for gaining entry for the visually impared.
 ![EntranceRoomSketchup](https://i.imgur.com/Qh7HS5h.png)
+
+My aim is to create the important structures that we need to place inside this canvas, and then simply print those
+structures individually rather than printing the entire model as things such as the floor and boundary walls would better
+be done as simple sheets of wood or acryllic.
+
+The final floor plan looks as such:
+![FloorPlan](https://i.imgur.com/XTlVdJY.png)
+
+Then I converted this floor plan to a 3D model:
+![Model1](https://i.imgur.com/GuM2OXN.png)
+![Model2](https://i.imgur.com/34VyYV0.png)
+
+
