@@ -1,6 +1,6 @@
 I polished up the final design in preparation to show Mathew which we hadn't seen in a while due to Ishan and I having
 trouble meeting up.
-![final 3D design] (https://cdn.discordapp.com/attachments/451573801000501253/491527790420557824/unknown.png) 
+![final 3D design](https://cdn.discordapp.com/attachments/451573801000501253/491527790420557824/unknown.png) 
 
 Mathew advised that I use Cura for the 3D printing software, however that will only be to test out how the model
 imports into the 3D printing software as Mathew will take care of the actual printing.
