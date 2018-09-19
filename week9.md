@@ -25,3 +25,7 @@ be within the printing limits of our printer.
 
 Now I have to plan all of the POI's and then create holes for the touch sensors. For now I believe holes 
 with a radius of 2.5mm should suffice.
+
+I have made the stalls, lifts, toilets and retail all POI's so that we may have touch sensors with information there.
+For the platforms, including platform 12 and 13 with the entrance next to retail, the touch sensors will be on the 
+'floor' of the model and so I will have to incorperate that into the laser cutting design.
