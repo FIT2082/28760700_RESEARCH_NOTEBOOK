@@ -23,6 +23,7 @@ I then separated all of the pieces out and placed them in a print friendly forma
 ![3](https://i.imgur.com/te7ouTk.png)
 
 We got all of the pieces cut:
+
 ![4](https://media.discordapp.net/attachments/451573801000501253/500517390900002836/20181012_145012.jpg?width=507&height=676)
 
 We did however get the side plates for the platform box cut 1cm higher as the original design drew concerns about whether or not
